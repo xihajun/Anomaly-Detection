@@ -1,7 +1,7 @@
 # Anomaly-Detection
 Week 1 Fundamentals of hypothesis testing, including the `null and alternative hypotheses`, `the test statistic` and the `p-value`, `power and the Neyman-Pearson lemma` <br>
 Week 2 `Combining p-values`, including `Fisher’s, Stouﬀer’s, Simes’`, higher criticism and how you choose between them <br>
-Fisher's combining p-values, Stouffer's combining p-values and Simes' combining p-values<br>
+#### Fisher's combining p-values, Stouffer's combining p-values and Simes' combining p-values<br>
 Week 3 Multiple testing, including `controlling false positives`, `the familywise error rate`, and `the false discovery rate` <br>
 Week 4 Miscellanea, including `handling discrete test statistics`, `Bayesian p-values`, `Monte Carlo p-values`, and `connections to machine-learning` <br>
 Weeks 4/5/6 Modelling dynamic network data: tractable and scalable Bayesian techniques. This will include three problem classes, and assessed coursework handed out in Week 4 and due by Thursday 20th December
