@@ -24,6 +24,7 @@ T is a real-valued function of the data T = g(D), which is used to decide which 
 p, associated with the observed value of a test statistic, t, is the probability under the null of observing a test statistic as extreme as t
 观察一个极端的测试统计量的概率
 所以p value 是一个与观测统计量t有关的一个概率，这个概率是一个t在极端状态下的概率
+
 ##### Distribution of the p-value under the null hypothesis
 Assume the test statistic T has a continuous distribution. Then, under the null hypothesis, the p-value is uniformly distributed on [0,1].
 **** How to proof!!
