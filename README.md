@@ -14,7 +14,20 @@ ILO3 To apply these anomaly detection tools to analyse real large-scale data and
 <br>
 EXAM: ILO1 AND ILO2 <br>
 
-### hypothesis_testing_fundamentals
+### Hypothesis testing fundamentals
+#### Null and alternative hypotheses
+H0 H1 hypotheses
+#### Test statistic
+T is a real-valued function of the data T = g(D), which is used to decide which hypothesis is true.
+
+#### The p-value
+p, associated with the observed value of a test statistic, t, is the probability under the null of observing a test statistic as extreme as t
+观察一个极端的测试统计量的概率
+##### Distribution of the p-value under the null hypothesis
+Assume the test statistic T has a continuous distribution. Then, under the null hypothesis, the p-value is uniformly distributed on [0,1].
+**** How to proof!!
+
+
 ### combining_pvalues
 ### multiple_testing
 ### discrete_pvalues
