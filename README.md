@@ -17,6 +17,7 @@ EXAM: ILO1 AND ILO2 <br>
 ### Hypothesis testing fundamentals
 #### Null and alternative hypotheses
 H0 H1 hypotheses
+https://www.icourse163.org/learn/UESTC-1001590004?tid=1003273003#/learn/content?type=detail&id=1004590602&cid=1005781829
 #### Test statistic
 T is a real-valued function of the data T = g(D), which is used to decide which hypothesis is true.
 
