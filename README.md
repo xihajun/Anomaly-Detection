@@ -26,6 +26,13 @@ p, associated with the observed value of a test statistic, t, is the probability
 ##### Distribution of the p-value under the null hypothesis
 Assume the test statistic T has a continuous distribution. Then, under the null hypothesis, the p-value is uniformly distributed on [0,1].
 **** How to proof!!
+##### Rejecting the null hypothesis
+##### Power
+ the power of a hypothesis test is the probability of rejecting the null hypothesis if the alternative holds: 
+ ```P(Reject H0 | H1 holds) = P1(Reject H0). ```
+##### The Neyman-Pearson Lemma
+##### Distribution of the p-value under the alternative
+##### Other tests
 
 
 ### combining_pvalues
