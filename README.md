@@ -34,8 +34,10 @@ Assume the test statistic T has a continuous distribution. Then, under the null 
  the power of a hypothesis test is the probability of rejecting the null hypothesis if the alternative holds: 
  ```P(Reject H0 | H1 holds) = P1(Reject H0). ```
  
- 台湾公开课特别有帮助：http://ctld.video.nccu.edu.tw/media/752
+ 台湾公开课有帮助但是特别长：http://ctld.video.nccu.edu.tw/media/752
+ 
 ##### The Neyman-Pearson Lemma
+ youtube上一个视频感觉不错：https://www.youtube.com/watch?v=UJnUrMMmrFU
 ##### Distribution of the p-value under the alternative
 ##### Other tests
 
