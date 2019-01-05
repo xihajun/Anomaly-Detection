@@ -6,6 +6,7 @@ Week 3 Multiple testing, including `controlling false positives`, `the familywis
 Week 4 Miscellanea, including `handling discrete test statistics`, `Bayesian p-values`, `Monte Carlo p-values`, and `connections to machine-learning` <br>
 Weeks 4/5/6 Modelling dynamic network data: tractable and scalable Bayesian techniques. This will include three problem classes, and assessed coursework handed out in Week 4 and due by Thursday 20th December
 ## Chi square
+### freedom
 符合某种分布，均值为多少，方差为多少，是对全体n个变量的三个约束，也是三个方程。所以本来n个自由度要减去3。
 https://www.zhihu.com/question/22947034
 假设你现在手头有 3 个样本X1 X2 X3，。因为样本具有随机性，所以它们取值不定。但是假设出于某种原因，我们需要让样本均值固定，比如说，mean(X)=5  ， 那么这时真正取值自由，”有随机性“ 的样本只有 2 个。 试想，如果mean确定 ,那么每选取一组X1 X2 的取值， X3将不得不等于15-X1-X2 对于第三个样本来说，这种 “不得不” 就可以理解为被剥夺了一个自由度。所以就这个例子而言，3 个样本最终"自由"的只有其中的 2 个。不失一般性，n个样本， 留出一个自由度给固定的均值，剩下的自由度即为n-1。
@@ -15,6 +16,8 @@ https://www.zhihu.com/question/20983193/answer/115599650
 链接：https://www.zhihu.com/question/20983193/answer/28228799
 来源：知乎
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+### Chi square
+https://www.youtube.com/watch?v=dXB3cUGnaxQ
 ## Topics
 ### Why anomaly detection
 ILO1 To recognise and apply a range of models for dynamic network data, and their estimation <br>
