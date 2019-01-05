@@ -46,6 +46,9 @@ Consider test statistics T1, T2 satisfying T2 = h(T1) where h is a strictly incr
 
 
 ### combining_pvalues
+Fisher's method: product of P values
+Fisher’s method allows a majority (although perhaps not overwhelming) of tests to be inconclusive while still detecting an effect if there are a few, strong signals. For example:
+
 ### multiple_testing
 ### discrete_pvalues
 ### network_anomaly_detection
