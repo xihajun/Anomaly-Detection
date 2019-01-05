@@ -18,6 +18,8 @@ https://www.zhihu.com/question/20983193/answer/115599650
 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 ### Chi square
 https://www.youtube.com/watch?v=dXB3cUGnaxQ
+Lecture 30: Chi-Square, Student-t, Multivariate Normal | Statistics 110
+https://www.youtube.com/watch?v=MF-XSJOsGqw
 ## Topics
 ### Why anomaly detection
 ILO1 To recognise and apply a range of models for dynamic network data, and their estimation <br>
