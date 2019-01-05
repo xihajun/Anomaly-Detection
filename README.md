@@ -33,10 +33,13 @@ Assume the test statistic T has a continuous distribution. Then, under the null 
 ##### Power
  the power of a hypothesis test is the probability of rejecting the null hypothesis if the alternative holds: 
  ```P(Reject H0 | H1 holds) = P1(Reject H0). ```
- 
- 台湾公开课有帮助但是特别长：http://ctld.video.nccu.edu.tw/media/752
+##### Increasing functions of a test statistic
+
+Consider test statistics T1, T2 satisfying T2 = h(T1) where h is a strictly increasing function. Let t1, t2 be the observed values of T1, T2. Then the p-values p1, p2 associated with t1, t2 are equal.
  
 ##### The Neyman-Pearson Lemma
+ 台湾公开课有帮助但是特别长：http://ctld.video.nccu.edu.tw/media/752
+
  youtube上一个视频感觉不错：https://www.youtube.com/watch?v=UJnUrMMmrFU
 ##### Distribution of the p-value under the alternative
 ##### Other tests
