@@ -47,7 +47,13 @@ Consider test statistics T1, T2 satisfying T2 = h(T1) where h is a strictly incr
 
 ### combining_pvalues
 Fisher's method: product of P values
+
 Fisher’s method allows a majority (although perhaps not overwhelming) of tests to be inconclusive while still detecting an effect if there are a few, strong signals. For example:
+
+Admissibility criterion (Birnbaum, 1954)
+If H0 is rejected for any given set of pi , then it will also be rejected for all sets of pi∗ such that pi∗ ≤ pi for each i.
+Theorem (Birnbaum, 1954)
+For each method of combination satisfying the admissibility criterion, we can find some alternative H1 represented by non-increasing densities fi against which that method of combination gives a best test of H0.
 
 ### multiple_testing
 ### discrete_pvalues
